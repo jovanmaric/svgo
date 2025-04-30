@@ -7,7 +7,6 @@
 !.yarn/versions
 
 node_modules
-dist
 test/regression-fixtures
 test/regression-diffs
 test/cli/output
